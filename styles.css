@@ -1,9 +1,9 @@
 /* Variáveis CSS com a nova paleta de cores */
 :root {
     /* Tema Claro */
-    --primary-color: #d4b815;
-    --secondary-color: #ff8c00;
-    --accent-color: #dc3545;
+    --primary-color: #f3f2f0;
+    --secondary-color: #621172;
+    --accent-color: #DC143C;
     --background-color: #6aaaee;
     --text-color: #212529;
     --card-background: #ffffff;
@@ -15,8 +15,8 @@
 
 /* NOVO TEMA ESCURO */
 body.dark-theme {
-    --primary-color: #FFD700; /* Dourado */
-    --secondary-color: #DC143C; /* Carmesim */
+    --primary-color: #f87d0b; /* Dourado */
+    --secondary-color: #eb8510; /* Carmesim */
     --accent-color: #17a2b8; /* Ciano-azulado */
     --background-color: #12122b; /* Azul Escuro Quase Preto */
     --text-color: #f0f0f0;
@@ -78,7 +78,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: #e28e0f;
+    color: #ebe8e5;
     text-decoration: none;
     font-weight: 700;
     font-family: 'Luckiest Guy', cursive;
